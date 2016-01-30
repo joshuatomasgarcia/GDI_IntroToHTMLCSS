@@ -1,0 +1,14 @@
+p {
+  color: antiquewhite;
+}
+#special-list {
+  color: rgba(0, 0, 255, 0.5);
+  font-size: 0.8em;
+}
+.welcome {
+  background-color: #979EFF;
+}
+.welcome em {
+  color: red;
+  font-weight: bold;
+}
